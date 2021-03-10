@@ -1,7 +1,7 @@
-# NOVALNET PAYMENT INTEGRATION FOR HYBRIS
-Novalnet’s Hybris payment module ensures simple and secure integration of payments and all payment services for the Hybris shop; allowing shop owners to automate the entire payment process from checkout till collection. 
+# NOVALNET PAYMENT INTEGRATION FOR SAP HYBRIS
+Novalnet’s Hybris payment module ensures simple and secure integration of payments and all payment services for the SAP Hybris shop; allowing shop merchants to automate the entire payment process from checkout till collection. 
 ## Requirements 
-Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for using this Novalnet Payment Gateway for Hybris. The module is available for the 6.7.0.3 version in the following languages: EN & DE.
+Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for using this Novalnet payment module for SAP Hybris. The module is available for the 6.7.0.3 version in the following languages: EN & DE.
 ## Advanced functions 
 -	Easy configuration of <a href="https://www.novalnet.de/zahlungsabwicklung"> international and local payment methods </a>
 -	One PCI DSS certified <a href="https://www.novalnet.de/plattform"> payment platform </a> for all payment services
@@ -11,7 +11,6 @@ Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required f
 -	Credit Card iframe integration with custom CSS configuration
 -	One-click shopping supported
 -	On-hold transaction configuration for payments that exceed the pre-defined limit
--	Setting a time limit for orders & automatic order cancellation when time limit is exceeded
 -	Responsive templates
 
 For detailed documentation and other technical inquiries, please send us an email at technic@novalnet.de.
@@ -30,15 +29,15 @@ For detailed documentation and other technical inquiries, please send us an emai
 -	<a href="https://www.novalnet.de/lastschrift-mit-zahlungsgarantie"> Direct Debit SEPA with payment guarantee </a>
 -	<a href="https://www.novalnet.de/kauf-auf-rechnung-100-prozent-zahlungsgarantie"> Invoice with payment guarantee </a>
 ## Installation
-The following steps enable an easy installation of Novalnet’s payment module for Hybris: 
+The following steps enable an easy installation of Novalnet’s payment module for SAP Hybris: 
 1. Get the payment module & detailed documentation by <a href="https://www.novalnet.de/kontakt/sales"> contacting us </a>
-2. Install module to your Hybris shop 
+2. Install module to your SAP Hybris shop 
 3. Include Merchant Details in the shop admin panel 
 4. Let us know which payment types you wish to activate
 ## License  
-See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz 
+See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license 
 ## Documentation & Support
-For more information about the Novalnet Integration for Hybris, please get in touch with us: sales@novalnet.de or +49 89 9230683-20<br>
+For more information about the Novalnet Integration for SAP Hybris, please get in touch with us: sales@novalnet.de or +49 89 9230683-20<br>
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
