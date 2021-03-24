@@ -1,12 +1,12 @@
 # NOVALNET PAYMENT INTEGRATION FOR SAP HYBRIS
-Novalnet’s Hybris payment module ensures simple and secure integration of payments and all payment services for the SAP Hybris shop; allowing shop merchants to automate the entire payment process from checkout till collection. 
+Novalnet’s <a href="https://www.novalnet.com/modul/hybris">SAP Hybris</a> payment module ensures simple and secure integration of payments and all payment services for the SAP Hybris shop; allowing shop merchants to automate the entire payment process from checkout till collection. 
 ## Requirements 
 Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for using this Novalnet payment module for SAP Hybris. The module is available for the 6.7.0.3 version in the following languages: EN & DE.
 ## Advanced functions 
 -	Easy configuration of <a href="https://www.novalnet.de/zahlungsabwicklung"> international and local payment methods </a>
 -	One PCI DSS certified <a href="https://www.novalnet.de/plattform"> payment platform </a> for all payment services
 -	Comprehensive <a href="https://www.novalnet.de/risikomanagement"> fraud management solution with more than 60 supported modules </a>
--	Secure SSL encoded gateways
+-	Secure SSL-encoded gateways
 -	Credit Card with 3D Secure
 -	Credit Card iframe integration with custom CSS configuration
 -	One-click shopping supported
@@ -46,6 +46,6 @@ Feringastr. 4 <br>
 Deutschland<br>
 Web: www.novalnet.de 
 ## Who is Novalnet AG?
-<p>Novalnet AG is a leading financial services institution offering advanced payment gateways for processing online payments. Operating in the market as a full payment service provider, Novalnet AG was founded in Ismaning near Munich, and provides online merchants user-friendly payment integration with all major shop systems as well as with self-programmed e-commerce sites.</p> 
+<p>Novalnet AG is a <a href="https://www.novalnet.de/zahlungsinstitut">leading financial services institution</a> offering advanced payment gateways for processing online payments. Operating in the market as a full payment service provider, Novalnet AG was founded in Ismaning near Munich, and provides online merchants user-friendly payment integration with all major shop systems as well as with self-programmed e-commerce sites.</p> 
 <p>Novalnet Payment Platform offers merchants an <a href="https://www.novalnet.de/produkte"> end-to-end solution for automated payment processing </a> all the way from checkout to receivables. Our SaaS engine is <a href="https://www.novalnet.de/pci-dss-zertifizierung"> PCI DSS certified </a> and designed to enable real-time risk management, secured payments via escrow accounts, efficient receivables management, dynamic member and subscription management, customized payment solutions for various business models (e.g. marketplaces, affiliate programs etc.) and much more.</p>
 <p>The experienced and international team of specialists at Novalnet is committed to support online merchants with in-depth knowledge to increase revenue and ensure secure online payments.</p>
